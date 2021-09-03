@@ -2,6 +2,8 @@ TFTP server and client library for Golang
 =========================================
 
 This is Aeroqual's fork of https://github.com/DSpeichert/tftp which is in itself a fork of https://github.com/pin/tftp
+
+
 https://github.com/pin/tftp has race conditions and which DSpeichert has fixed on their fork.
 However, DSpeichert has not changed the go module name, which is why this fork exists.
 
